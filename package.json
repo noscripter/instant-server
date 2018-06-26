@@ -25,6 +25,12 @@
     "linger": "0.0.3",
     "minimist": "^1.2.0",
     "open": "0.0.5",
-    "serve-index": "^1.7.2"
-  }
+    "serve-index": "^1.7.2",
+    "snyk": "^1.85.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
