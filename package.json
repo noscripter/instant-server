@@ -24,7 +24,7 @@
     "instant": "^1.10.0",
     "linger": "0.0.3",
     "minimist": "^1.2.0",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "serve-index": "^1.7.2"
   }
 }
